@@ -1,26 +1,27 @@
 {
-    "name": "sap-partner-eng-extension-pack",
-    "version": "1.0.1",
-    "publisher": "ms-python",
+    "name": "extension-pack",
+    "version": "1.0.3",
+    "publisher": "sap-partner-eng",
     "engines": {
         "vscode": "^1.26.0"
     },
     "license": "MIT",
     "displayName": "SAP Partner Engineering Extension Pack",
     "description": "Curated Partner Development Environment.",
-    "icon": "icon.png",
+    "icon": "sap-partner-eng.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-anaconda-extension-pack"
+		"url": "https://github.com/andrewlunde/sap-partner-eng-extension-pack"
 	},
     "categories": [
         "Extension Packs"
     ],
     "keywords": [
-        "python", "anaconda", "conda"
+        "python", "sap", "partner", "partner-eng", "partner-engineering"
     ],
     "extensionPack": [
         "ms-python.python",
-        "redhat.vscode-yaml"
+        "redhat.vscode-yaml",
+	    "sap-partner-eng.bas-installer-extension"
     ]
 }
