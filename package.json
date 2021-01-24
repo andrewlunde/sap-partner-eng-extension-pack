@@ -1,6 +1,6 @@
 {
     "name": "extension-pack",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "sap-partner-eng",
     "engines": {
         "vscode": "^1.26.0"
