@@ -6,7 +6,7 @@ It includes the following set of extensions:
  - SAP Partner Engineering BAS Extras: [sap-partner-eng.sap-bas-extras](https://open-vsx.org/extension/sap-partner-eng/sap-bas-extras)
 
 
-## Python 2.9.2 Install
+## Python 3.9.2 Install
 
 Open the command palette with __View -> Find Command…__  function.  Install Python by typing __BAS: Install Python__.  Open up the output and select the __Python Installer__ occurrence to see that it completed without issues.  Then verify that python is available by opening a new terminal and issuing the command.
 
