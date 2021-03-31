@@ -3,7 +3,7 @@ The SAP Partner Engineering Extension Pack is a set of extensions that enhance t
 It includes the following set of extensions:
 
  - Microsoft Python Extensions: [ms-python.python](https://open-vsx.org/extension/ms-python/python)
- - SAP Partner Engineering Installer: [sap-partner-eng.bas-installer-extension](https://open-vsx.org/extension/sap-partner-eng/bas-installer-extension)
+ - SAP Partner Engineering BAS Extras: [sap-partner-eng.sap-bas-extras](https://open-vsx.org/extension/sap-partner-eng/sap-bas-extras)
 
 
 ## Python 2.9.2 Install
