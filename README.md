@@ -3,11 +3,10 @@ The SAP Partner Engineering Extension Pack is a set of extensions that enhance t
 It includes the following set of extensions:
 
  - Microsoft Python Extensions: [ms-python.python](https://open-vsx.org/extension/ms-python/python)
- - RedHat Yaml Support: [redhat.vscode-yaml](https://open-vsx.org/extension/redhat/vscode-yaml)
  - SAP Partner Engineering Installer: [sap-partner-eng.bas-installer-extension](https://open-vsx.org/extension/sap-partner-eng/bas-installer-extension)
 
 
-## Python 2.9.0 Install
+## Python 2.9.2 Install
 
 Open the command palette with __View -> Find Command…__  function.  Install Python by typing __BAS: Install Python__.  Open up the output and select the __Python Installer__ occurrence to see that it completed without issues.  Then verify that python is available by opening a new terminal and issuing the command.
 
@@ -22,6 +21,6 @@ python -V
 
 ## Select Python Interpreter
 
-Open the command palette with __View -> Find Command...__ and search for __Python:__.  Run the __Python: Select Interpreter__ command and select __/home/user/python_3_9_0/bin/python__.
+Open the command palette with __View -> Find Command...__ and search for __Python:__.  Run the __Python: Select Interpreter__ command and select __/home/user/python_3_9_2/bin/python__.
 
 
